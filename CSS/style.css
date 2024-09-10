@@ -1,5 +1,5 @@
 *{
-    background-color: #665959;
+    background-color: #000000;
     font-family: 'open Sans', 'Helvetica Neue', Helvetica, Arial, Sans-serif;
     font-size: 22px;
 }
@@ -13,16 +13,20 @@ a{
     text-decoration: none;
     color: aliceblue;
 }
+P{
+    text-decoration: none;
+    color:#a788ab;
+}
 div{
-    color: #999999;
+    color: #A2C8CC;
     height: 100%;
     height: 100%;
     padding: 20px 10px 20px 40px;
     margin: 10px;
-    border: 1px solid #999999;
-    background-color: #b6eb8a;
+    border: 1px solid #9bfae0;
+    background-color: #3582ab;
     border-radius: 15px;
-    border: solid 2px #999999;
+    border: solid 2px #9bfae0;
     border-radius: 15px 0px 15px 0px;
-    box-shadow: 2px 2px 5px #c0c2c3;
+    box-shadow: 2px 2px 5px #a788ab;
 }
